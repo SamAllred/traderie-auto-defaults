@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Traderie Auto Defaults
 // @namespace    https://traderie.com/
-// @version      33.1
+// @version      33.2
 // @description  Automatically applies user-defined default values (Game Version, Platform, Ladder, Mode, Region) when creating Diablo II Resurrected listings on Traderie.
 // @author       Samarty Pants
 // @license      MIT
@@ -9,6 +9,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
+// @downloadURL  https://raw.githubusercontent.com/SamAllred/traderie-auto-defaults/main/traderie-auto-defaults.user.js
+// @updateURL    https://raw.githubusercontent.com/SamAllred/traderie-auto-defaults/main/traderie-auto-defaults.user.js
 // ==/UserScript==
 
 /*
