@@ -24,10 +24,25 @@ This script automates that process.
 2. Open `traderie-auto-defaults.user.js`.
 3. Click **Install** in Tampermonkey.
 
-### Method 2 – Install via Raw GitHub (optional)
+# Install Traderie Auto Defaults
 
-1. Open the raw file: https://raw.githubusercontent.com/SamAllred/traderie-auto-defaults/main/traderie-auto-defaults.user.js
-2. Tampermonkey will prompt to install.
+### Step 1 — Install Tampermonkey
+
+Chrome:
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+Firefox:
+https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+
+Edge:
+https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
+
+---
+
+### Step 2 — Install Script
+
+Click:
+https://raw.githubusercontent.com/SamAllred/traderie-auto-defaults/main/traderie-auto-defaults.user.js
 
 ## Configuration
 
